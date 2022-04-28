@@ -10,7 +10,7 @@ model
     theta[2]~dbeta(a2,b2)
     theta[3]~dbeta(a3,b3)
 
-    g[1]<-gamma1            # Definition of g[] containing the mixing probabilities
+    g[1]<-gamma1            # Definition of g[] containing the mixed probabilities
     g[2]<-gamma2
     g[3]<-1-(gamma1 + gamma2)
     }
