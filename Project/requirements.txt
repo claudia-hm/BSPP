@@ -1,0 +1,5 @@
+pandas
+pystan==3.4.0
+nest_asyncio
+pymc3==4.0.0
+
