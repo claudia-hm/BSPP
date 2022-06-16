@@ -41,3 +41,6 @@ vignettes/*.pdf
 
 #virtualenvironments
 venv/
+
+#icloud
+*.icloud
