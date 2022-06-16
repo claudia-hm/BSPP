@@ -1,6 +1,6 @@
 pandas
 pystan==3.4.0
 nest_asyncio
-pymc==3.11.5
+pymc3==3.11.5
 
 
