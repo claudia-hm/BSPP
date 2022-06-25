@@ -41,6 +41,11 @@ vignettes/*.pdf
 
 #virtualenvironments
 venv/
+.env
 
 #icloud
 *.icloud
+
+#makefile and pipfile
+Makefile
+Pipfile.lock
