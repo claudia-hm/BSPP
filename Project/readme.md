@@ -4,8 +4,7 @@ _Authors: Núria Camí, Ana de Garay, Claudia Herron_
 
 This is the repository of the Final Project of the Bayesian Statistics and Probabilistic Programming course. 
 
-The work has consisted in doing exhaustive review of the Logistic Regression function from a Bayesian
-perspective. In particular, we have performed several Bayesian experiments with three different programming languages (PyMC3, PyStan and Tensorflow Probability) and done comparisons regarding the convergence, autocorrelation, effective sample size, execution time and performance.
+The project has consisted in doing an exhaustive review of the Logistic Regression function from a Bayesian perspective. In particular, we have performed several Bayesian experiments with three different programming languages (PyMC3, PyStan and Tensorflow Probability) and done comparisons regarding the convergence, autocorrelation, effective sample size, execution time and performance.
 
 -----------
 
