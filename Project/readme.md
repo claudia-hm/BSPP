@@ -1,5 +1,13 @@
 # Final project: Bayesian Logistic Regression 
 
+This is the repository of the Final Project of the Bayesian Statistics and Probabilistic Programming course: **Bayesian Logistic Regression: Theoretical foundations and application to real use cases
+employing specific probabilistic programming (PyMC3, PyStan and Tensorflow Probability)**.
+
+The work has consisted in doing exhaustive review of the Logistic Regression function from a Bayesian
+perspective. In particular, we have performed several Bayesian experiments with three different programming languages (PyMC3, PyStan and Tensorflow Probability) and done comparisons regarding the convergence, autocorrelation, effective sample size, execution time and performance.
+
+-----------
+
 ## How to run the code
   1. Create (```virtualenv <name>```) and activate (```source <name>/bin/activate```) your virtual environment. 
   2. Install all the required packages with ```pip install -r requirements.txt```
