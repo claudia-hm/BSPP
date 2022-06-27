@@ -1,5 +1,7 @@
 # Bayesian Logistic Regression: Theoretical foundations and application to real use cases employing specific probabilistic programming (PyMC3, PyStan and Tensorflow Probability)
 
+_Authors: Núria Camí, Ana de Garay, Claudia Herron_
+
 This is the repository of the Final Project of the Bayesian Statistics and Probabilistic Programming course. 
 
 The work has consisted in doing exhaustive review of the Logistic Regression function from a Bayesian
