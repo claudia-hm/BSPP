@@ -49,3 +49,4 @@ venv/
 #makefile and pipfile
 Makefile
 Pipfile.lock
+Pipfile
